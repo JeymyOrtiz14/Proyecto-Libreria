@@ -1,0 +1,55 @@
+QUERY BASE DE DATOS
+create database sisbiblioteca
+go
+use sisbiblioteca
+go
+if exists(select * from sysobjects where name = 'usuarios')
+ begin
+ drop table usuarios
+ end
+go
+create table usuarios(
+idUsuario integer identity,
+ Nombre varchar(20),
+ username varchar(10),
+ clave varchar(10)
+)
+go
+insert into usuarios
+values  ('Libreria','libre','li1234'),
+ ('Proyecto','proyect','pro1234')
+go
+if exists(select*from sysobjects where name='genero')
+begin
+drop table genero
+end
+go
+
+INSERTAR
+USE [sisbiblioteca]
+GO
+
+INSERT INTO [dbo].[libro]
+           ([idcodigo]
+           ,[genero]
+           ,[nombrelibro]
+           ,[autorlibro]
+           ,[estado])
+     VALUES
+           (<idcodigo, nvarchar(50),>
+           ,<genero, nvarchar(50),>
+           ,<nombrelibro, nvarchar(50),>
+           ,<autorlibro, nvarchar(50),>
+           ,<estado, nvarchar(50),>)
+GO
+
+
+insert into libro
+values ('1001','Ciencia Ficciòn','The Hobbit','J.R.R. Tolkien','Préstamo'),
+	('2001','Romance', 'El Diario de una Pasión', 'Nicholas Sparks', 'Disponible'),
+	('3001','Ciencia','La Teoria del Todo','Stephen Hawking', 'Préstamo'),
+	('4001','Dramatico','El Silencio de Nuestras Palabras','Simona Sparaco', 'Disponible'),
+	('5001','Novela','A Fuego Lento','Paula Hawkins', 'Préstamo')
+
+	select * from libro
+

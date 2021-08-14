@@ -1,0 +1,26 @@
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\Sistema Libreria.csproj.AssemblyReference.cache
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.frmlogin.resources
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.frmmenu.resources
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.frmprestamo.resources
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\Sistema Libreria.csproj.GenerateResource.cache
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\Sistema Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jeymi Ortiz\Desktop\lenguaje III\Sis Libreria\obj\Debug\WindowsFormsApp1.frmreporte.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\Sistema Libreria.csproj.AssemblyReference.cache
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.frmreporte.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.frmlogin.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.frmmenu.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.frmprestamo.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\Sistema Libreria.csproj.GenerateResource.cache
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\Sistema Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jeymi Ortiz\Desktop\Sis Libreria\obj\Debug\WindowsFormsApp1.pdb
